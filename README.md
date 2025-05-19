@@ -10,11 +10,12 @@ Make sure you have the following installed:
 - PyTorch and TorchAudio
 - Transformers (Hugging Face)
 - ffmpeg (for audio extraction)
+- pytube (for downloading videos)
 
 Install dependencies:
 
 ```bash
-pip install torch torchaudio transformers numpy
+pip install torch torchaudio transformers numpy pytube
 ```
 
 Make sure ffmpeg is installed and available in your PATH:
