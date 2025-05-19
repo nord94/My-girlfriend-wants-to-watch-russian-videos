@@ -1,4 +1,4 @@
-# Video to SRT Subtitle Generator
+# She just doesn't speak Russian you know :/
 
 This tool generates SRT subtitle files from video files using OpenAI's Whisper speech recognition model. It can transcribe audio in the original language or translate it to English.
 
